@@ -30,7 +30,7 @@ __      __| |__    __ _ | |_  ___ | |__    __ _  _ __
  \ V  V / | | | || (_| || |_ \__ \| |_) || (_| || | | |
   \_/\_/  |_| |_| \__,_| \__||___/|_.__/  \__,_||_| |_|
    {Fore.YELLOW}                                                              
-Coded by Mr Juice
+Coded by Jobin Xer
 Chat Me https://bio.link/mrjuice
 Whatsapp number banning tool
 {Fore.CYAN}
